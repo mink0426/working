@@ -5,12 +5,14 @@
 ##### <del>This is a Title5</del>
 ###### This is a Title6
 
-This is first paragraph\and this is a new line  this is a new line
+This is first paragraph
+and this is a new line 
+this is a new line
 
 This is second paragraph
 ---
 This is a new section which contains code
-\
+
 ```python
 class codeblock:
     def self.init(self):
@@ -22,7 +24,8 @@ class codeblock:
 <br>
 <br>
 <br>
-__MINKYOUNG__, the creator of this md file, siad
+__MINKYOUNG__, the creator of this md file, said
+
 > 'Text expressed in Markdown can include other tags within it.'
 
 >This is link
